@@ -1,0 +1,1 @@
+sample application for RoR tutorial by MHartl
